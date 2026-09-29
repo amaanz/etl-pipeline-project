@@ -212,9 +212,9 @@ the pipeline twice produces identical results — no duplicate data.
 
 ## Author
 
-**Sanyam Jain**
-Data Engineer
-[GitHub](https://github.com/san-7771)
+**Amaan Zaidi**
+
+[GitHub](https://github.com/amaanz)
 ```
 
 ---
